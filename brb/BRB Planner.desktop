@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=BRB Planner
+Comment=Owner payout planner for BRB
+Exec=python3 "/home/ray8reaper/Desktop/BRB Fins/brb/app/brb_app.py"
+Path=/home/ray8reaper/Desktop/BRB Fins/brb
+Icon=accessories-calculator
+Terminal=false
+Categories=Office;Finance;
