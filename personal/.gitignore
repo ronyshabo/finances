@@ -1,0 +1,8 @@
+# Personal data stays on this computer only (the repo is public):
+# statements, imports, advisor answers, logs and local settings.
+inbox/*
+!inbox/.gitkeep
+archive/
+advice/
+logs/
+config.json
